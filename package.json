@@ -1,0 +1,26 @@
+{
+  "name": "express-api-sample",
+  "version": "1.0.0",
+  "description": "Express API Sample - IGTI",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoAmorim/express-api-sample.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api"
+  ],
+  "author": "Gustavo Amorim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoAmorim/express-api-sample/issues"
+  },
+  "homepage": "https://github.com/GustavoAmorim/express-api-sample#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
