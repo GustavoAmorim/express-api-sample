@@ -20,7 +20,11 @@
     "url": "https://github.com/GustavoAmorim/my-bank-api/issues"
   },
   "homepage": "https://github.com/GustavoAmorim/my-bank-api#readme",
+  "type": "module",
   "dependencies": {
-    "express": "^4.17.1"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "swagger-ui-express": "^4.1.6"
   }
 }
